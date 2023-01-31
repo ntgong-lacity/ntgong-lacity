@@ -1,4 +1,5 @@
-### Hi there 👋
+Systems Analyst working in LASAN under Solids Group supporting and developing applications for interal integration and use. 
+
 
 <!--
 **ntgong-lacity/ntgong-lacity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
